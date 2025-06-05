@@ -48530,6 +48530,7 @@
           // By default we can add the tutorial to the file storage
           var tuto = [
               "basic-hash.sp",
+              "basic-hash-auth.sp",
               "feldhofer.sp",
               "lfmtp21.sp", "private-authentication.sp", "running-ex-secrecy.sp", "signed-ddh-P.sp", "ssh-forward-part1-compo.sp", "toy-state-equiv.sp", "yubikey.sp",
               "hash-lock.sp", "mw.sp", "running-ex-deduction.sp", "running-ex.sp", "signed-ddh-S.sp", "ssh-forward-part2-compo.sp", "yplrk05.sp",
